@@ -6,7 +6,7 @@ A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python
 
 A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python to extract news articles from the [NewsData.io](https://newsdata.io/documentation) public API, transform them into clean CSV format, and load them into a MongoDB Atlas cloud database.
 
-## 📌 Features
+## Features
 
 - ✅ Extracts news articles on **Artificial Intelligence**, **LLMs**, and **Robotics**
 - ✅ Cleans and stores data in a structured **CSV file**
@@ -16,7 +16,7 @@ A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.8+
 - [`requests`](https://pypi.org/project/requests/)
@@ -27,7 +27,7 @@ A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python
 
 ---
 
-## 🧠 Workflow Overview
+## Workflow Overview
 
 1. **Extract**: Connects to NewsData.io API and fetches real-time news based on specific keywords.
 2. **Transform**: Normalizes the JSON response and converts it to structured CSV format.
@@ -35,7 +35,7 @@ A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 📁 news-etl-mongodb/
@@ -48,7 +48,7 @@ A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -82,13 +82,13 @@ Open the notebook and run all cells to:
 
 ---
 
-## 🛡️ Security Tip
+## Security Tip
 
 ⚠️ Never commit your MongoDB URI or API keys directly into public repos. Use `.env` and `python-dotenv` for secret management.
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 - MongoDB Collection: `news_data_api.The_articles`
 - Sample Document:
@@ -106,7 +106,7 @@ Open the notebook and run all cells to:
 
 ---
 
-## 📚 References
+## References
 
 - [NewsData.io API Docs](https://newsdata.io/documentation)
 - [MongoDB Atlas Quickstart](https://www.mongodb.com/developer/products/atlas/)
@@ -114,7 +114,7 @@ Open the notebook and run all cells to:
 
 ---
 
-## 🙌 Author
+## Author
 
 **[Francis Xavier OVON]** – MSc Computer Science, Muni University  
 📫 Reach me at: [foxnesta.vfx58@gmail.com]
