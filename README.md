@@ -1,8 +1,8 @@
-# news-etl-mongodb
+# News-ETL-MongoDB
 A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python to extract news articles from the NewsData.io public API, transform them into clean CSV format, and load them into a MongoDB Atlas cloud database.
 
 
-# 📰 News ETL Pipeline with MongoDB Atlas
+# News ETL Pipeline with MongoDB Atlas
 
 A lightweight, modular ETL (Extract–Transform–Load) pipeline built in Python to extract news articles from the [NewsData.io](https://newsdata.io/documentation) public API, transform them into clean CSV format, and load them into a MongoDB Atlas cloud database.
 
@@ -116,5 +116,5 @@ Open the notebook and run all cells to:
 
 ## Author
 
-**[Francis Xavier OVON]** – MSc Computer Science, Muni University  
-📫 Reach me at: [foxnesta.vfx58@gmail.com]
+**Francis Xavier OVON** – MSc Computer Science, Muni University  
+Reach me at: foxnesta.vfx58@gmail.com
